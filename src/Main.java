@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Nabored ako");
+        System.out.println("Meaning ng checkout");
     }
 }
